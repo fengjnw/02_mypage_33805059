@@ -20,6 +20,7 @@ http.createServer(function (req, res) {
                 <li>Reading</li>
                 <li>Traveling</li>
                 <li>Coding</li>
+                <li>Music</li>
             </ul>
         </body>
 
