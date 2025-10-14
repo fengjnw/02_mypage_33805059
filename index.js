@@ -21,6 +21,9 @@ http.createServer(function (req, res) {
                 <li>Traveling</li>
                 <li>Coding</li>
                 <li>Music</li>
+                <li>Sports</li>
+                <li>Gardening</li>
+                <li>Photography</li>
             </ul>
         </body>
 
