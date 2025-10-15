@@ -14,18 +14,16 @@ Currently, there are no external dependencies, so there's no need to run `npm in
 
 ## Test and Deploy
 
-To test the application, run:
+To test the application (which will close when the SSH session expires), run:
 
 ```bash
 node index.js
 ```
 
-Then, open [http://localhost:8000](http://localhost:8000).
-
-For deployment, run:
+For deployment (which will not expire), use:
 
 ```bash
 forever index.js
 ```
 
-Then, open the URL listed in `links.txt`.
+Afterward, open the URL provided in `links.txt`.
