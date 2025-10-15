@@ -8,6 +8,10 @@ A Node.js demo used for deployment checks.
 
 - **links.txt**: Contains the URL of the web application after deployment.
 
+## Dependency
+
+Currently, there are no external dependencies, so there's no need to run `npm install`.
+
 ## Test and Deploy
 
 To test the application, run:
