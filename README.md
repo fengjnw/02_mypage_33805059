@@ -24,4 +24,4 @@ For deployment, use:
 forever index.js
 ```
 
-Next, open the URL listed in `links.txt`.
+Then, open the URL listed in `links.txt`.
