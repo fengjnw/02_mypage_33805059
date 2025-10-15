@@ -12,7 +12,7 @@ A Node.js demo used for deployment checks.
 
 Currently, there are no external dependencies, so there's no need to run `npm install`.
 
-## Test and Deploy
+## Testing and Deployment
 
 To test the application (which will close when the SSH session expires), run:
 
