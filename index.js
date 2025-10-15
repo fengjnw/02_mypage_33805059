@@ -41,7 +41,7 @@ http.createServer(function (req, res) {
         </main>
 
         <footer>
-            <p>Jinwei Feng — 2025</p>
+            <p>Jinwei Feng - 2025</p>
         </footer>
     </div>
 </body>
